@@ -5,15 +5,15 @@ I'm a passionate Fullstack .NET Core Developer with experience in building web a
 
 ## Skills
 - **Languages:** C#, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** .NET Core, ASP.NET Core, Entity Framework Core, React.js
+- **Frameworks/Libraries:** .NET Core, ASP.NET Core, Entity Framework Core, Angular
 - **Databases:** SQL Server, MongoDB
-- **Tools:** Visual Studio, Visual Studio Code, Git, Docker
+- **Tools:** Visual Studio, Visual Studio Code, Git, GitHub
 
 ## Projects
 ### Project 1
 Description: Brief overview of your project.
-GitHub: [Project 1 Repo](link-to-repo)
-Demo: [Project 1 Demo](link-to-demo)
+GitHub: [Project 1 Repo]([link-to-repo=](https://github.com/Mohamed-Ashraf-99/Examify))
+Demo: [Project 1 Demo]([link-to-demo](https://www.linkedin.com/posts/mohamed-ashraf-9961a022a_celebrating-our-latest-achievement-online-activity-7172651831867629569-SdeC?utm_source=share&utm_medium=member_desktop))
 
 ### Project 2
 Description: Brief overview of your project.
