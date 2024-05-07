@@ -10,20 +10,19 @@ I'm a passionate Fullstack .NET Core Developer with experience in building web a
 - **Tools:** Visual Studio, Visual Studio Code, Git, GitHub
 
 ## Projects
-### Project 1
-Description: Brief overview of your project.
-GitHub: [Project 1 Repo]([link-to-repo=](https://github.com/Mohamed-Ashraf-99/Examify))
-Demo: [Project 1 Demo]([link-to-demo](https://www.linkedin.com/posts/mohamed-ashraf-9961a022a_celebrating-our-latest-achievement-online-activity-7172651831867629569-SdeC?utm_source=share&utm_medium=member_desktop))
+### Examify
+Description: Examify is a web application for conducting online exams securely.
+GitHub: [Examify Repo](https://github.com/Mohamed-Ashraf-99/Examify)
+Demo: [Examify Demo](https://www.linkedin.com/posts/mohamed-ashraf-9961a022a_celebrating-our-latest-achievement-online-activity-7172651831867629569-SdeC?utm_source=share&utm_medium=member_desktop)
 
-### Project 2
-Description: Brief overview of your project.
-GitHub: [Project 2 Repo](link-to-repo)
-Demo: [Project 2 Demo](link-to-demo)
+### Etammen Medical Website
+Description: Etammen Medical Website is a project for managing medical services and appointments.
+GitHub: [Etammen Medical Website Repo](https://github.com/Mohamed-Ashraf-99/Etammen-Medical-Website)
+Demo: [Etammen Medical Website Demo](https://www.linkedin.com/posts/mohamed-ashraf-9961a022a_pleased-to-announce-our-latest-project-activity-7178426959100526592-nTIL?utm_source=share&utm_medium=member_desktop)
 
-## Recent Blog Posts
-- [Title of Blog Post 1](link-to-blog-post)
-- [Title of Blog Post 2](link-to-blog-post)
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](link-to-profile)
-- Email: [Your Email Address](mailto:youremail@example.com)
+## Get in Touch
+- LinkedIn: [Mohamed Ashraf](https://www.linkedin.com/in/mohamed-ashraf-9961a022a/)
+- Email: [Mohamed.Ashraf.4595@gmail.com](mailto:Mohamed.Ashraf.4595@gmail.com)
+
