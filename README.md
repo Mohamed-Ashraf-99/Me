@@ -10,6 +10,8 @@ I'm a passionate Fullstack .NET Core Developer with experience in building web a
 - **Architecture/Principles:** Clean Architecture, Three-tier Architecture, Repository Pattern, Object-Oriented Programming (OOP), Design Patterns, SOLID Principles
 - **Testing:** Unit Testing
 - **Query Languages:** LINQ
+- **Data Structures & Algorithms**
+
 
 
 ## Projects
